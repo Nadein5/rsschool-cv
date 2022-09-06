@@ -56,10 +56,3 @@ return div
 this CV
 
 ---
-
-## Education and courses:
-
-1. CS50 video course
-2. Video courses - ITVDN
-3. Video courses youtube blogers
-4. CodeWars
