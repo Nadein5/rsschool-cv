@@ -8,7 +8,7 @@
 - E-mail: olegnadein1994@gmail.com
 - Discord: NadeinOleg
 - GitHub: Nadein5
-- [Linkedin] (https://www.linkedin.com/in/oleg-nadein-764a96175/)
+- Linkedin: https://www.linkedin.com/in/oleg-nadein-764a96175/
 
 ---
 
@@ -56,3 +56,7 @@ return div
 this CV
 
 ---
+
+### Language:
+
+English level - A2-B1
